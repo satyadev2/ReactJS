@@ -1,4 +1,8 @@
+import React from "react";
+// const punycode = require('punycode/');
+import ReactDOM from "react-dom/client";
 // const heading = React.createElement("h1", { id: "heading", class: "satyaa" }, "Hello World!");
+
 // const root = ReactDOM.createRoot(document.querySelector(".root"));
 // root.render(heading);
 
